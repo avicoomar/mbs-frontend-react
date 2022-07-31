@@ -1,1 +1,1 @@
-**run "npm install" to install dependencies **
+run "npm install" to install dependencies 
